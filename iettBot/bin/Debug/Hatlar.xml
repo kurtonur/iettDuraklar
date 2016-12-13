@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hepsi>
+  <hat id="1" numara="1" isim="KİRAZLITEPE - ACIBADEM - KADIKÖY" />
+  <hat id="2" numara="2" isim="BOSTANCI - ÜSKÜDAR" />
+  <hat id="3" numara="3" isim="BURHANİYE MAHALLESİ - KADIKÖY" />
+  <hat id="4" numara="3A" isim="KADIKÖY - ÜNALAN MAHALLESİ" />
+  <hat id="5" numara="3B" isim="KADIKÖY - ÜNALAN MAHALLESİ" />
+  <hat id="6" numara="4" isim="BOSTANCI - KADIKÖY" />
+  <hat id="7" numara="5" isim="KADIKÖY / KOŞUYOLU - ÜSKÜDAR" />
+  <hat id="8" numara="6" isim="KÜÇÜKÇAMLICA / BULGURLU - ÜSKÜDAR" />
+  <hat id="9" numara="7" isim="TOPAĞACI MAHALLESİ / ÜMRANİYE - RASATHANE" />
+  <hat id="10" numara="8" isim="VALİEVLERİ - KADIKÖY" />
+  <hat id="11" numara="8A" isim="BATI ATAŞEHİR / FİKİRTEPE - KADIKÖY" />
+  <hat id="12" numara="8E" isim="ESENEVLER - KADIKÖY" />
+  <hat id="13" numara="8K" isim="TEPEÜSTÜ - ATAŞEHİR / KOZYATAĞI METRO" />
+  <hat id="14" numara="8Y" isim="SOYAK YENİŞEHİR - YENİSAHRA METRO" />
+  <hat id="15" numara="9" isim="ADEM YAVUZ MAHALLESİ - ÜSKÜDAR" />
+  <hat id="16" numara="9A" isim="ATAKENT - ÜSKÜDAR" />
+  <hat id="17" numara="9Ç" isim="ÇEKMEKÖY - ÜSKÜDAR" />
+  <hat id="18" numara="9ÇN" isim="ÇEKMEKÖY - NİŞANTEPE" />
+  <hat id="19" numara="9H" isim="CUMHURİYETKÖY / HÜSEYİNLİ - ÇEKMEKÖY" />
+  <hat id="20" numara="9K" isim="TAŞDELEN-KADIKÖY" />
+  <hat id="21" numara="9Ş" isim="ŞAHİNBEY - ÜSKÜDAR" />
+  <hat id="22" numara="9T" isim="ŞAHİNBEY - ALTUNİZADE METROBÜS" />
+  <hat id="23" numara="9Ü" isim="DEMOKRASİ CADDESİ - ÜSKÜDAR" />
+  <hat id="24" numara="9ÜD" isim="ŞAHİNBEY / DUDULLU - ÜSKÜDAR" />
+  <hat id="25" numara="10" isim="ÜMRANİYE DEVLET HASTANESİ - ATAŞEHİR / BOSTANCI" />
+  <hat id="26" numara="10A" isim="ESATPAŞA - ATAŞEHİR / YEDİTEPE ÜNİVERSİTESİ" />
+  <hat id="27" numara="10B" isim="BOSTANCI - KADIKÖY" />
+  <hat id="28" numara="10E" isim="ESATPAŞA - KADIKÖY" />
+  <hat id="29" numara="10G" isim="ÜMRANİYE / ESATPAŞA - GÖZTEPE" />
+  <hat id="30" numara="10S" isim="BOSTANCI - KADIKÖY" />
+  <hat id="31" numara="11" isim="YENİDOĞAN - ALTUNİZADE METROBÜS" />
+  <hat id="32" numara="11A" isim="ALEMDAĞ - ÜSKÜDAR" />
+  <hat id="33" numara="11BE" isim="BURHANİYE MAHALLESİ - ÜSKÜDAR" />
+  <hat id="34" numara="11C" isim="EMNİYET MAHALLESİ - ÜSKÜDAR" />
+  <hat id="35" numara="11ÇB" isim="KAVACIK / ÇAVUŞBAŞI - ÜMRANİYE" />
+  <hat id="36" numara="11D" isim="İNKILAP MAHALLESİ - ÜSKÜDAR" />
+  <hat id="37" numara="11E" isim="ESATPAŞA - ÜSKÜDAR" />
+  <hat id="38" numara="11EK" isim="ESATPAŞA / KARLIDERE - ÜSKÜDAR" />
+  <hat id="39" numara="11ES" isim="ESENEVLER - ACIBADEM METROBÜS / ÜSKÜDAR" />
+  <hat id="40" numara="11G" isim="YENİDOĞAN - ÜSKÜDAR" />
+  <hat id="41" numara="11H" isim="ORTAÇEŞME - ÜMRANİYE" />
+  <hat id="42" numara="11K" isim="KAZIM KARABEKİR MAHALLESİ - ÜSKÜDAR" />
+  <hat id="43" numara="11L" isim="ESATPAŞA / BULGURLU - ÜSKÜDAR" />
+  <hat id="44" numara="11M" isim="MUSTAFA KEMAL MAHALLESİ - ÜSKÜDAR" />
+  <hat id="45" numara="11N" isim="ESENEVLER - ÜSKÜDAR" />
+  <hat id="46" numara="11P" isim="SARIGAZİ EMEK MAHALLESİ - ÜSKÜDAR" />
+  <hat id="47" numara="11R" isim="REŞADİYE - MADENLER" />
+  <hat id="48" numara="11SA" isim="UĞUR MUMCU / SAMANDIRA - ALTUNİZADE METROBÜS" />
+  <hat id="49" numara="11ST" isim="DUMLUPINAR - ÜSKÜDAR" />
+  <hat id="50" numara="11T" isim="TÜRKİŞ BLOKLARI - ÜSKÜDAR" />
+  <hat id="51" numara="11Ü" isim="ESATPAŞA / ÜNALAN - ÜSKÜDAR" />
+  <hat id="52" numara="11ÜS" isim="SULTANBEYLİ - ÜSKÜDAR" />
+  <hat id="53" numara="11V" isim="VEYSEL KARANİ - ALTUNİZADE METROBÜS" />
+  <hat id="54" numara="11Y" isim="YAVUZTÜRK MAHALLESİ - ÜSKÜDAR" />
+  <hat id="55" numara="12" isim="KADIKÖY - ÜSKÜDAR" />
+  <hat id="56" numara="12A" isim="KADIKÖY - ÜSKÜDAR" />
+  <hat id="57" numara="12C" isim="ÜSKÜDAR DEVLET HASTANESİ - ÜSKÜDAR" />
+  <hat id="58" numara="12H" isim="KADIKÖY - HAREM / ÜSKÜDAR" />
+  <hat id="59" numara="12ÜS" isim="SANCAKTEPE - ÜSKÜDAR" />
+  <hat id="60" numara="13" isim="ATAŞEHİR / ÇAKMAK MAHALLESİ - KADIKÖY" />
+  <hat id="61" numara="13AB" isim="ALTUNİZADE - ATAŞEHİR / BOSTANCI" />
+  <hat id="62" numara="13B" isim="YENİŞEHİR - KADIKÖY" />
+  <hat id="63" numara="13H" isim="EVTAŞ BLOKLARI - ÜMRANİYE DEVLET HASTANESİ" />
+  <hat id="64" numara="13M" isim="ŞERİFALİ - ÜSKÜDAR" />
+  <hat id="65" numara="13TD" isim="TEPEÜSTÜ - ÜSKÜDAR DEVLET HASTANESİ" />
+  <hat id="66" numara="13Y" isim="ÇAKMAK MAHALLESİ / YENİSAHRA - KADIKÖY" />
+  <hat id="67" numara="14" isim="YENİDOĞAN - KADIKÖY" />
+  <hat id="68" numara="14A" isim="ALEMDAĞ - KADIKÖY" />
+  <hat id="69" numara="14AK" isim="ALEMDAĞ - ZİVERBEY / KADIKÖY" />
+  <hat id="70" numara="14B" isim="ADEM YAVUZ MAHALLESİ - KADIKÖY" />
+  <hat id="71" numara="14BK" isim="PARSELLER MAHALLESİ - KADIKÖY" />
+  <hat id="72" numara="14C" isim="ÜSKÜDAR DEVLET HASTANESİ - KADIKÖY" />
+  <hat id="73" numara="14CE" isim="ÇEKMEKÖY - KADIKÖY" />
+  <hat id="74" numara="14ÇK" isim="ŞAHİNBEY - KADIKÖY" />
+  <hat id="75" numara="14D" isim="DUMLUPINAR / KAZIMKARABEKİR - KADIKÖY" />
+  <hat id="76" numara="14DK" isim="İNKILAP MAHALLESİ - LİBADİYE CADDESİ / KADIKÖY" />
+  <hat id="77" numara="14E" isim="KAZIM KARABEKİR - KADIKÖY" />
+  <hat id="78" numara="14ES" isim="ESENŞEHİR - KADIKÖY" />
+  <hat id="79" numara="14F" isim="KÜPLÜCE - KADIKÖY" />
+  <hat id="80" numara="14FD" isim="FERAH MAHALLESİ - ÜSKÜDAR DEVLET HASTANESİ" />
+  <hat id="81" numara="14K" isim="KAZIM KARABEKİR - KADIKÖY" />
+  <hat id="82" numara="14KS" isim="SULTANBEYLİ GÖLET - KOZYATAĞI METRO" />
+  <hat id="83" numara="14M" isim="KAVACIK YENİ CAMİ - KADIKÖY" />
+  <hat id="84" numara="14R" isim="RASATHANE - KADIKÖY" />
+  <hat id="85" numara="14S" isim="SULTANBEYLİ - KOZYATAĞI METRO" />
+  <hat id="86" numara="14ŞB" isim="ŞAHİNBEY - KADIKÖY" />
+  <hat id="87" numara="14T" isim="TAŞDELEN - KOZYATAĞI METRO" />
+  <hat id="88" numara="14Y" isim="YAVUZTÜRK MAHALLESİ - KADIKÖY" />
+  <hat id="89" numara="14YE" isim="YAVUZTÜRK MAHALLESİ / ÜMRANİYE - EMEK MAHALLESİ" />
+  <hat id="90" numara="14YK" isim="YENİDOĞAN / ŞİLE YOLU - AYRILIKÇEŞME" />
+  <hat id="91" numara="15" isim="BEYKOZ - ÜSKÜDAR" />
+  <hat id="92" numara="15A" isim="ANADOLUKAVAĞI - KAVACIK" />
+  <hat id="93" numara="15B" isim="TOPAĞACI MAHALLESİ / GÜZELTEPE - ÜSKÜDAR" />
+  <hat id="94" numara="15BK" isim="DERESEKİ / BEYKOZ - KADIKÖY" />
+  <hat id="95" numara="15C" isim="FERAH MAHALLESİ - ÜSKÜDAR" />
+  <hat id="96" numara="15ÇB" isim="KAVACIK - ÇAVUŞBAŞI / ÇENGELDERE" />
+  <hat id="97" numara="15ÇK" isim="GÜZELTEPE - KADIKÖY" />
+  <hat id="98" numara="15D" isim="ANADOLUFENERİ / HALAYIKDERE / DERESEKİ - KAVACIK" />
+  <hat id="99" numara="15E" isim="TEKKE MEVKİİ - ÜSKÜDAR" />
+  <hat id="100" numara="15F" isim="BEYKOZ - KADIKÖY" />
+  <hat id="101" numara="15H" isim="HEKİMBAŞI - ÜSKÜDAR" />
+  <hat id="102" numara="15K" isim="KİRAZLITEPE - ÜSKÜDAR" />
+  <hat id="103" numara="15KB" isim="KAVACIK - KOZYATAĞI METRO" />
+  <hat id="104" numara="15KÇ" isim="ÇAVUŞBAŞI - ÜSKÜDAR" />
+  <hat id="105" numara="15M" isim="KAVACIK YENİ CAMİ - ÜSKÜDAR" />
+  <hat id="106" numara="15N" isim="ARKBOYU - ÜSKÜDAR" />
+  <hat id="107" numara="15P" isim="SOĞUKSU MAHALLESİ - ÜSKÜDAR" />
+  <hat id="108" numara="15R" isim="RASATHANE - ÜSKÜDAR" />
+  <hat id="109" numara="15S" isim="SULTANMURAT - ÜSKÜDAR" />
+  <hat id="110" numara="15SK" isim="SULTANMURAT - KADIKÖY" />
+  <hat id="111" numara="15ŞN" isim="ŞENEVLER - ÜSKÜDAR" />
+  <hat id="112" numara="15T" isim="TOKATKÖY - ÜSKÜDAR" />
+  <hat id="113" numara="15TY" isim="TOKATKÖY / BEYKOZ - ÜMRANİYE DEVLET HASTANESİ" />
+  <hat id="114" numara="15U" isim="TUFAN MAHALLESİ - ÜSKÜDAR" />
+  <hat id="115" numara="15Y" isim="YENİMAHALLE - ÜSKÜDAR" />
+  <hat id="116" numara="15YK" isim="YENİMAHALLE - KADIKÖY" />
+  <hat id="117" numara="15Z" isim="GÜZELTEPE - ÜSKÜDAR" />
+  <hat id="118" numara="16" isim="PENDİK - KADIKÖY" />
+  <hat id="119" numara="16A" isim="PENDİK - ÜSKÜDAR" />
+  <hat id="120" numara="16B" isim="KARTAL METRO / TOPSELVİ - KADIKÖY" />
+  <hat id="121" numara="16C" isim="HİLAL KONUTLARI - KADIKÖY" />
+  <hat id="122" numara="16D" isim="ALTKAYNARCA / PENDİK - KADIKÖY" />
+  <hat id="123" numara="16F" isim="FINDIKLI MAHALLESİ - ÜSKÜDAR" />
+  <hat id="124" numara="16FK" isim="FINDIKLI MAHALLESİ - KOZYATAĞI METRO" />
+  <hat id="125" numara="16K" isim="YENİŞEHİR - KADIKÖY" />
+  <hat id="126" numara="16KH" isim="YENİŞEHİR / MARMARA ÜNİV. HASTANESİ - KADIKÖY" />
+  <hat id="127" numara="16M" isim="ATAŞEHİR - ÜSKÜDAR" />
+  <hat id="128" numara="16N" isim="SULTANBEYLİ NECİP FAZIL MAHALLESİ - KARTAL METRO" />
+  <hat id="129" numara="16S" isim="SABİHA GÖKÇEN HAVALİMANI - UZUNÇAYIR METROBÜS" />
+  <hat id="130" numara="16U" isim="UĞURMUMCU - ÜSKÜDAR" />
+  <hat id="131" numara="16Y" isim="YEŞİLBAĞLAR - KADIKÖY" />
+  <hat id="132" numara="16Z" isim="ÇAMLIK / KARTAL CEZAEVİ - KADIKÖY" />
+  <hat id="133" numara="17" isim="PENDİK - KADIKÖY" />
+  <hat id="134" numara="17B" isim="GEBZE - KARTAL METRO" />
+  <hat id="135" numara="17K" isim="KAVAKPINAR - KADIKÖY" />
+  <hat id="136" numara="17L" isim="KÜÇÜKYALI LOJMANLARI - KADIKÖY" />
+  <hat id="137" numara="17P" isim="TUZLA EMLAK KONUTLARI - UZUNÇAYIR METROBÜS" />
+  <hat id="138" numara="17S" isim="UĞURMUMCU - BOSTANCI" />
+  <hat id="139" numara="18A" isim="SULTANBEYLİ UZUNDERE - UZUNÇAYIR METROBÜS" />
+  <hat id="140" numara="18E" isim="YENİDOĞAN / SAMANDIRA - KADIKÖY" />
+  <hat id="141" numara="18K" isim="SULTANBEYLİ GÖLET - KADIKÖY" />
+  <hat id="142" numara="18M" isim="SULTANBEYLİ MİMARSİNAN - UZUNÇAYIR METROBÜS" />
+  <hat id="143" numara="18S" isim="SULTANBEYLİ - ALTUNİZADE METROBÜS" />
+  <hat id="144" numara="18Ü" isim="SULTANBEYLİ - ÜSKÜDAR" />
+  <hat id="145" numara="18V" isim="VEYSEL KARANİ / SAMANDIRA - KADIKÖY" />
+  <hat id="146" numara="18Y" isim="YENİDOĞAN / SAMANDIRA - ÜSKÜDAR" />
+  <hat id="147" numara="19" isim="FERHATPAŞA / YEDİTEPE ÜNİVERSİTESİ - KADIKÖY" />
+  <hat id="148" numara="19A" isim="YENİDOĞAN - AYRILIKÇEŞME" />
+  <hat id="149" numara="19B" isim="BAŞIBÜYÜK MAHALLESİ - KADIKÖY" />
+  <hat id="150" numara="19D" isim="ÜMRANİYE - BOSTANCI" />
+  <hat id="151" numara="19E" isim="YENİDOĞAN - KADIKÖY" />
+  <hat id="152" numara="19ES" isim="ESENŞEHİR - KADIKÖY" />
+  <hat id="153" numara="19F" isim="YEDİTEPE ÜNİV. / FINDIKLI MAHALLESİ - KADIKÖY" />
+  <hat id="154" numara="19FB" isim="FINDIKLI MAHALLESİ - BOSTANCI" />
+  <hat id="155" numara="19FK" isim="FINDIKLI MAHALLESİ - AYRILIKÇEŞME" />
+  <hat id="156" numara="19H" isim="MARMARA EĞİTİM KÖYÜ - KADIKÖY" />
+  <hat id="157" numara="19K" isim="ACARLAR SİTESİ / KAYIŞDAĞI - KADIKÖY" />
+  <hat id="158" numara="19M" isim="ATAŞEHİR - KADIKÖY" />
+  <hat id="159" numara="19S" isim="YENİDOĞAN / SARIGAZİ - KADIKÖY" />
+  <hat id="160" numara="19SB" isim="SULTANBEYLİ - BOSTANCI" />
+  <hat id="161" numara="19T" isim="FERHATPAŞA - KADIKÖY" />
+  <hat id="162" numara="19V" isim="VEYSEL KARANİ / SAMANDIRA - KOZYATAĞI METRO" />
+  <hat id="163" numara="19Y" isim="FERHATPAŞA - KADIKÖY" />
+  <hat id="164" numara="19Z" isim="ZÜMRÜTEVLER - KADIKÖY" />
+  <hat id="165" numara="20" isim="ORTAÇEŞME / KAVACIK - ÜMRANİYE DEVLET HASTANESİ" />
+  <hat id="166" numara="20D" isim="DUDULLU / YENİŞEHİR - KADIKÖY" />
+  <hat id="167" numara="20E" isim="ESATPAŞA - KADIKÖY" />
+  <hat id="168" numara="20K" isim="KAZIM KARABEKİR - KADIKÖY" />
+  <hat id="169" numara="20Ü" isim="ÜMRANİYE TEPEÜSTÜ - KADIKÖY" />
+  <hat id="170" numara="21B" isim="KÜÇÜKBAKKALKÖY - KADIKÖY" />
+  <hat id="171" numara="21C" isim="ESENKENT - KADIKÖY" />
+  <hat id="172" numara="21G" isim="GÜLENSU MAHALLESİ - KADIKÖY" />
+  <hat id="173" numara="21K" isim="KURFALI - KADIKÖY" />
+  <hat id="174" numara="21U" isim="UĞURMUMCU - KADIKÖY" />
+  <hat id="175" numara="21Y" isim="BATI ATAŞEHİR / YENİSAHRA - KADIKÖY" />
+  <hat id="176" numara="22" isim="İSTİNYE DEREİÇİ - KABATAŞ" />
+  <hat id="177" numara="22B" isim="BEBEK - KABATAŞ" />
+  <hat id="178" numara="22RE" isim="FATİH SULTAN MEHMET - BEŞİKTAŞ" />
+  <hat id="179" numara="25" isim="HACIOSMAN METRO - TÜNEL / SARIYER" />
+  <hat id="180" numara="25A" isim="RUMELİKAVAĞI - HACIOSMAN METRO" />
+  <hat id="181" numara="25C" isim="TARABYAÜSTÜ / FERAHEVLER - İSTİNYE" />
+  <hat id="182" numara="25E" isim="SARIYER - KABATAŞ" />
+  <hat id="183" numara="25G" isim="SARIYER - TAKSİM" />
+  <hat id="184" numara="25H" isim="HACIOSMAN METRO - HAVANTEPE" />
+  <hat id="185" numara="25T" isim="SARIYER - TAKSİM" />
+  <hat id="186" numara="25Y" isim="HACIOSMAN METRO - YUNUS EMRE / UYUM SİTESİ" />
+  <hat id="187" numara="26" isim="DİKİLİTAŞ - YENİKAPI" />
+  <hat id="188" numara="26A" isim="FULYA MAHALLESİ - EMİNÖNÜ" />
+  <hat id="189" numara="26B" isim="GAYRETTEPE - EMİNÖNÜ" />
+  <hat id="190" numara="26M" isim="HİLTON SİTESİ / FULYA - BEŞİKTAŞ" />
+  <hat id="191" numara="27E" isim="ŞİRİNTEPE - KABATAŞ" />
+  <hat id="192" numara="27SE" isim="SEYRANTEPE - KABATAŞ" />
+  <hat id="193" numara="27T" isim="ŞİRİNTEPE - ŞİŞLİ" />
+  <hat id="194" numara="28" isim="TOPKAPI / EDİRNEKAPI - BEŞİKTAŞ" />
+  <hat id="195" numara="28T" isim="TOPKAPI - BEŞİKTAŞ" />
+  <hat id="196" numara="29" isim="PINAR MAHALLESİ - ZİNCİRLİKUYU METROBÜS" />
+  <hat id="197" numara="29A" isim="DERBENT MAHALLESİ - BEŞİKTAŞ" />
+  <hat id="198" numara="29B" isim="FATİH SULTAN MEHMET - 4.LEVENT METRO" />
+  <hat id="199" numara="29C" isim="TARABYAÜSTÜ - KABATAŞ" />
+  <hat id="200" numara="29D" isim="FERAHEVLER - KABATAŞ" />
+  <hat id="201" numara="29GM" isim="MASLAK GAZETECİLER SİTESİ - 4.LEVENT METRO" />
+  <hat id="202" numara="29İ" isim="MASLAK GAZETECİLER SİTESİ - BEŞİKTAŞ" />
+  <hat id="203" numara="29M1" isim="HACIOSMAN METRO - FERAHEVLER" />
+  <hat id="204" numara="29M2" isim="HACIOSMAN METRO - FERAHEVLER" />
+  <hat id="205" numara="29P" isim="POLİGON MAHALLESİ - ZİNCİRLİKUYU METROBÜS" />
+  <hat id="206" numara="29Ş" isim="İSTİNYE DEREİÇİ - ŞİŞLİ" />
+  <hat id="207" numara="29T" isim="TARABYAÜSTÜ / DARÜŞŞAFAKA - İSTİNYE" />
+  <hat id="208" numara="30A" isim="BEŞİKTAŞ - MECİDİYEKÖY" />
+  <hat id="209" numara="30D" isim="ORTAKÖY DEREBOYU - YENİKAPI" />
+  <hat id="210" numara="30M" isim="BEŞİKTAŞ - MECİDİYEKÖY" />
+  <hat id="211" numara="31" isim="YENİBOSNA KUYUMCUKENT - YENİKAPI" />
+  <hat id="212" numara="31E" isim="YENİBOSNA KUYUMCUKENT - EMİNÖNÜ" />
+  <hat id="213" numara="31K" isim="KUYUMCUKENT-YENİBOSNA METRO" />
+  <hat id="214" numara="31Y" isim="TOKİ AYAZMA - YENİKAPI" />
+  <hat id="215" numara="32" isim="CEVATPAŞA - EMİNÖNÜ" />
+  <hat id="216" numara="32A" isim="CEVATPAŞA - BEYAZIT" />
+  <hat id="217" numara="32M" isim="CEVATPAŞA - MECİDİYEKÖY" />
+  <hat id="218" numara="32T" isim="CEVATPAŞA - TAKSİM" />
+  <hat id="219" numara="33" isim="ESENLER GİYİMKENT / TURGUTREİS - EMİNÖNÜ" />
+  <hat id="220" numara="33B" isim="ESENLER GİYİMKENT / BİRLİK MAHALLESİ - EMİNÖNÜ" />
+  <hat id="221" numara="33E" isim="ESENLER METRO - YENİKAPI" />
+  <hat id="222" numara="33ES" isim="ESENLER GİYİMKENT / ATIŞALANI - EMİNÖNÜ" />
+  <hat id="223" numara="33M" isim="ESENLER GİYİMKENT - MECİDİYEKÖY" />
+  <hat id="224" numara="33TE" isim="ESENLER TURGUTREİS - EMİNÖNÜ" />
+  <hat id="225" numara="33TM" isim="ESENLER GİYİMKENT / TURGUTREİS - MECİDİYEKÖY" />
+  <hat id="226" numara="33Y" isim="ESENLER GİYİMKENT / YÜZYIL MAHALLESİ - EMİNÖNÜ" />
+  <hat id="227" numara="34" isim="AVCILAR-ZİNCİRLİKUYU" />
+  <hat id="228" numara="34A" isim="CEVİZLİBAĞ - SÖĞÜTLÜÇEŞME" />
+  <hat id="229" numara="34AS" isim="AVCILAR - SÖĞÜTLÜÇEŞME" />
+  <hat id="230" numara="34B" isim="BEYLİKDÜZÜ-AVCILAR" />
+  <hat id="231" numara="34BZ" isim="BEYLİKDÜZÜ - ZİNCİRLİKUYU" />
+  <hat id="232" numara="34C" isim="BEYLİKDÜZÜ-CEVİZLİBAĞ" />
+  <hat id="233" numara="34G" isim="BEYLİKDÜZÜ-SÖĞÜTLÜÇEŞME" />
+  <hat id="234" numara="34T" isim="AVCILAR -TOPKAPI" />
+  <hat id="235" numara="34U" isim="ZİNCİRLİKUYU-UZUNÇAYIR" />
+  <hat id="236" numara="34Z" isim="ZİNCİRLİKUYU-SÖĞÜTLÜÇEŞME" />
+  <hat id="237" numara="35" isim="KOCAMUSTAFAPAŞA - EMİNÖNÜ" />
+  <hat id="238" numara="35A" isim="KOCAMUSTAFAPAŞA - BEYAZIT" />
+  <hat id="239" numara="35C" isim="KOCAMUSTAFAPAŞA - TAKSİM" />
+  <hat id="240" numara="35D" isim="KOCAMUSTAFAPAŞA - BALAT" />
+  <hat id="241" numara="36" isim="KARADENİZ MAHALLESİ - BEYAZIT" />
+  <hat id="242" numara="36A" isim="CEBECİ - VEZNECİLER" />
+  <hat id="243" numara="36AS" isim="TAŞOLUK- SEFAKÖY / YENİBOSNA METRO" />
+  <hat id="244" numara="36AY" isim="ARNAVUTKÖY - YENİBOSNA METRO" />
+  <hat id="245" numara="36B" isim="BOLLUCA / BOĞAZKÖY - CEBECİ" />
+  <hat id="246" numara="36Bİ" isim="TAŞOLUK - CEBECİ PERONLAR" />
+  <hat id="247" numara="36C" isim="CEBECİ MAHALLESİ-ARNAVUTKÖY MERKEZ" />
+  <hat id="248" numara="36CE" isim="CEBECİ - EMİNÖNÜ" />
+  <hat id="249" numara="36Cİ" isim="CEBECİ KÖYÜ - İSTİKLAL MAHALLESİ" />
+  <hat id="250" numara="36CY" isim="CEBECİ - YENİBOSNA METRO" />
+  <hat id="251" numara="36D" isim="ARNAVUTKÖY - DELİKLİKAYA" />
+  <hat id="252" numara="36E" isim="50.YIL MAHALLESİ - AKSARAY" />
+  <hat id="253" numara="36EM" isim="CEBECİ - MECİDİYEKÖY" />
+  <hat id="254" numara="36ES" isim="ESENTEPE MAHALLESİ - BEYAZIT" />
+  <hat id="255" numara="36HT" isim="TAŞOLUK TOKİ / HARAÇÇI - CEBECİ" />
+  <hat id="256" numara="36KE" isim="KARADENİZ MAHALLESİ - EMİNÖNÜ" />
+  <hat id="257" numara="36L" isim="MESCİDİSELAM - BEŞİKTAŞ" />
+  <hat id="258" numara="36M" isim="CEBECİ - MECİDİYEKÖY" />
+  <hat id="259" numara="36S" isim="HABİPLER MERKEZ - BELEDİYE" />
+  <hat id="260" numara="36T" isim="CEBECİ - TAKSİM" />
+  <hat id="261" numara="36V" isim="YAYLA MAHALLESİ - VEZNECİLER" />
+  <hat id="262" numara="36Y" isim="TAŞOLUK- ARNAVUTKÖY - YENİKAPI MARMARAY" />
+  <hat id="263" numara="36YM" isim="YUNUS EMRE MAHALLESİ - MECİDİYEKÖY" />
+  <hat id="264" numara="36YS" isim="YASSIÖREN - ARNAVUTKÖY" />
+  <hat id="265" numara="37" isim="YEŞİLPINAR -YILDIZTABYA- EYÜP" />
+  <hat id="266" numara="37E" isim="YILDIZTABYA - EMİNÖNÜ" />
+  <hat id="267" numara="37M" isim="YILDIZTABYA - MECİDİYEKÖY" />
+  <hat id="268" numara="37T" isim="YILDIZTABYA - TAKSİM" />
+  <hat id="269" numara="37Y" isim="YILDIZTABYA - VEZNECİLER" />
+  <hat id="270" numara="38" isim="YUNUS EMRE MAHALLESİ - BEYAZIT" />
+  <hat id="271" numara="38B" isim="YUNUS EMRE MAHALLESİ - VEZNECİLER" />
+  <hat id="272" numara="38E" isim="G.O.PAŞA DEVLET HASTANESİ / KÜÇÜKKÖY - EMİNÖNÜ" />
+  <hat id="273" numara="38G" isim="GAZİOSMANPAŞA DEVLET HASTANESİ - MECİDİYEKÖY" />
+  <hat id="274" numara="38M" isim="CEVATPAŞA / KÜÇÜKKÖY - MECİDİYEKÖY" />
+  <hat id="275" numara="38Z" isim="ZÜBEYDE HANIM MAHALLESİ - BEYAZIT" />
+  <hat id="276" numara="39" isim="AKŞEMSETTİN - YENİKAPI" />
+  <hat id="277" numara="39B" isim="İMAR BLOKLARI - VEZNECİLER" />
+  <hat id="278" numara="39Ç" isim="HAMİDİYE MAHALLESİ - AKSARAY" />
+  <hat id="279" numara="39D" isim="YEŞİLPINAR - YENİKAPI" />
+  <hat id="280" numara="39K" isim="BİNEVLER - YENİKAPI" />
+  <hat id="281" numara="39O" isim="YEŞİLPINAR - OTOGAR" />
+  <hat id="282" numara="39Y" isim="YEŞİLPINAR - VEZNECİLER" />
+  <hat id="283" numara="40" isim="RUMELİFENERİ / GARİPÇE - TAKSİM" />
+  <hat id="284" numara="40B" isim="SARIYER - BEŞİKTAŞ" />
+  <hat id="285" numara="40T" isim="İSTİNYE DEREİÇİ - TAKSİM" />
+  <hat id="286" numara="41" isim="SİNPAŞ SİTESİ / SARIYER - 4.LEVENT METRO" />
+  <hat id="287" numara="41A" isim="AYAZAĞA - MASLAK" />
+  <hat id="288" numara="41AT" isim="AYAZAĞA - DAVUTPAŞA YILDIZ TEKNİK ÜNİVERSİTESİ" />
+  <hat id="289" numara="41C" isim="AYAZAĞA - SARIYER" />
+  <hat id="290" numara="41E" isim="AYAZAĞA - KABATAŞ" />
+  <hat id="291" numara="41SF" isim="SARIYER - FATİH SULTAN MEHMET" />
+  <hat id="292" numara="41SM" isim="AYAZAĞA GARAJI - 4.LEVENT METRO" />
+  <hat id="293" numara="41ST" isim="SEYRANTEPE - TOPKAPI" />
+  <hat id="294" numara="41Y" isim="AYAZAĞA / KAĞITHANE - YENİKAPI" />
+  <hat id="295" numara="42" isim="BAHÇEKÖY / FERAHEVLER - ZİNCİRLİKUYU METROBÜS" />
+  <hat id="296" numara="42A" isim="HACIOSMAN METRO - KOCATAŞ" />
+  <hat id="297" numara="42HM" isim="BAHÇEKÖY - HACIOSMAN" />
+  <hat id="298" numara="42K" isim="KAZIMKARABEKİR - SARIYER" />
+  <hat id="299" numara="42KM" isim="4.LEVENT METRO - KOCATAŞ" />
+  <hat id="300" numara="42KT" isim="SARIYER - KOCATAŞ" />
+  <hat id="301" numara="42M" isim="BAHÇEKÖY - ZİNCİRLİKUYU METROBÜS" />
+  <hat id="302" numara="42T" isim="BAHÇEKÖY - TAKSİM" />
+  <hat id="303" numara="42Z" isim="KAZIMKARABEKİR - ZİNCİRLİKUYU METROBÜS" />
+  <hat id="304" numara="43" isim="DİKİLİTAŞ - TAKSİM" />
+  <hat id="305" numara="43R" isim="RUMELİ HİSARÜSTÜ - KABATAŞ" />
+  <hat id="306" numara="44B" isim="HAMİDİYE MAHALLESİ - EMİNÖNÜ" />
+  <hat id="307" numara="46Ç" isim="ÇAĞLAYAN - EMİNÖNÜ" />
+  <hat id="308" numara="46E" isim="HÜRRİYET MAHALLESİ - EMİNÖNÜ" />
+  <hat id="309" numara="46H" isim="HÜRRİYET MAHALLESİ - BEYAZIT" />
+  <hat id="310" numara="46KT" isim="KUŞTEPE - TAKSİM" />
+  <hat id="311" numara="46T" isim="ÇAĞLAYAN - TOPKAPI" />
+  <hat id="312" numara="47" isim="YEŞİLPINAR - EMİNÖNÜ" />
+  <hat id="313" numara="47Ç" isim="GÜZELTEPE - EMİNÖNÜ" />
+  <hat id="314" numara="47E" isim="BİNEVLER - EMİNÖNÜ" />
+  <hat id="315" numara="47L" isim="BİNEVLER - HACIOSMAN METRO" />
+  <hat id="316" numara="47N" isim="NUR SİTESİ - EMİNÖNÜ" />
+  <hat id="317" numara="48" isim="GÖKTÜRK - MECİDİYEKÖY" />
+  <hat id="318" numara="48A" isim="GÖKTÜRK - KAZLIÇEŞME" />
+  <hat id="319" numara="48B" isim="ARICILAR / HAMİDİYE MAHALLESİ - ŞİŞLİ" />
+  <hat id="320" numara="48E" isim="GÖKTÜRK - EMİNÖNÜ" />
+  <hat id="321" numara="48H" isim="HAMİDİYE MAHALLESİ - ŞİŞLİ" />
+  <hat id="322" numara="48K" isim="KEMERBURGAZ - AĞAÇLI KÖYÜ" />
+  <hat id="323" numara="48KA" isim="KEMERBURGAZ - ARNAVUTKÖY" />
+  <hat id="324" numara="48L" isim="GÖKTÜRK - 4.LEVENT METRO" />
+  <hat id="325" numara="48N" isim="GÜZELTEPE - TAKSİM" />
+  <hat id="326" numara="48P" isim="KEMERBURGAZ - AKPINAR KÖYÜ" />
+  <hat id="327" numara="48S" isim="SADABAT EVLERİ - ŞİŞLİ" />
+  <hat id="328" numara="48T" isim="HAMİDİYE MAHALLESİ - TAKSİM" />
+  <hat id="329" numara="49" isim="YUNUS EMRE MAHALLESİ - ŞİŞLİ" />
+  <hat id="330" numara="49A" isim="AKŞEMSETTİN - ŞİŞLİ" />
+  <hat id="331" numara="49B" isim="İMAR BLOKLARI - ŞİŞLİ" />
+  <hat id="332" numara="49G" isim="YUNUS EMRE MAHALLESİ - ŞİŞLİ" />
+  <hat id="333" numara="49GB" isim="YUNUS EMRE MAHALLESİ / BARAJ YOLU - ŞİŞLİ" />
+  <hat id="334" numara="49K" isim="BİNEVLER - ŞİŞLİ" />
+  <hat id="335" numara="49M" isim="KAZIM KARABEKİR MAHALLESİ - ŞİŞLİ" />
+  <hat id="336" numara="49T" isim="KÜÇÜKKÖY / YEŞİLPINAR - TAKSİM" />
+  <hat id="337" numara="49Y" isim="YEŞİLPINAR - ŞİŞLİ" />
+  <hat id="338" numara="49Z" isim="YEŞİLPINAR - ZİNCİRLİKUYU METROBÜS" />
+  <hat id="339" numara="52" isim="KONAKLAR MAHALLESİ - 4.LEVENT" />
+  <hat id="340" numara="54B" isim="BOMONTİ - FINDIKLI" />
+  <hat id="341" numara="54Ç" isim="ÇIKSALIN - TAKSİM" />
+  <hat id="342" numara="54E" isim="OKMEYDANI - EMİNÖNÜ" />
+  <hat id="343" numara="54HŞ" isim="HASKÖY - ŞİŞLİ" />
+  <hat id="344" numara="54HT" isim="HASKÖY - TAKSİM" />
+  <hat id="345" numara="54K" isim="KULAKSIZ - TAKSİM" />
+  <hat id="346" numara="54KT" isim="KAPTANPAŞA - DOLAPDERE / TAKSİM" />
+  <hat id="347" numara="54ÖR" isim="ÖRNEKTEPE - TAKSİM" />
+  <hat id="348" numara="54T" isim="SADABAT EVLERİ / TALATPAŞA - TAKSİM" />
+  <hat id="349" numara="54TE" isim="SADABAT EVLERİ / TALATPAŞA - EMİNÖNÜ" />
+  <hat id="350" numara="55" isim="GAZİOSMANPAŞA - ŞİŞLİ" />
+  <hat id="351" numara="55B" isim="GAZİOSMANPAŞA - BEŞİKTAŞ" />
+  <hat id="352" numara="55ET" isim="EYÜP ÜÇŞEHİTLER - TAKSİM" />
+  <hat id="353" numara="55EY" isim="EYÜP ÜÇŞEHİTLER - AKSARAY" />
+  <hat id="354" numara="55T" isim="GAZİOSMANPAŞA - TAKSİM" />
+  <hat id="355" numara="55Y" isim="GAZİOSMANPAŞA - YENİBOSNA METRO" />
+  <hat id="356" numara="57UL" isim="BEŞİKTAŞ - KURUÇEŞMEÜSTÜ" />
+  <hat id="357" numara="58A" isim="POLİGON MAHALLESİ / REŞİTPAŞA - KABATAŞ" />
+  <hat id="358" numara="58N" isim="FATİH SULTAN MEHMET - KABATAŞ" />
+  <hat id="359" numara="58S" isim="LEVAZIM MAHALLESİ - KABATAŞ" />
+  <hat id="360" numara="58UL" isim="ULUS MAHALLESİ - KABATAŞ" />
+  <hat id="361" numara="59A" isim="İSTİNYE DEREİÇİ - ŞİŞLİ" />
+  <hat id="362" numara="59B" isim="LEVENT BASIN SİTESİ - ŞİŞLİ" />
+  <hat id="363" numara="59C" isim="ARNAVUTKÖY - MECİDİYEKÖY" />
+  <hat id="364" numara="59H" isim="HAREKET SİTESİ - ŞİŞLİ" />
+  <hat id="365" numara="59K" isim="FATİH SULTAN KARAYOLLARI - ŞİŞLİ" />
+  <hat id="366" numara="59N" isim="FATİH SULTAN MEHMET - ŞİŞLİ" />
+  <hat id="367" numara="59R" isim="RUMELİ HİSARÜSTÜ - ŞİŞLİ" />
+  <hat id="368" numara="59RH" isim="RUMELİ HİSARÜSTÜ - İSTİNYE / HACIOSMAN METRO" />
+  <hat id="369" numara="59RK" isim="RUMELİ HİSARÜSTÜ - BOĞAZİÇİ Ü. SARITEPE KMP ARIKÖY" />
+  <hat id="370" numara="59RS" isim="SARIYER - RUMELİ HİSARÜSTÜ" />
+  <hat id="371" numara="59S" isim="LEVAZIM MAHALLESİ - ŞİŞLİ" />
+  <hat id="372" numara="59UÇ" isim="UÇAKSAVAR - ŞİŞLİ" />
+  <hat id="373" numara="62" isim="KAĞITHANE / GÜLTEPE - KABATAŞ" />
+  <hat id="374" numara="62G" isim="GÜZELTEPE / HAMİDİYE - BEŞİKTAŞ" />
+  <hat id="375" numara="63" isim="KAĞITHANE / ÇELİKTEPE - KABATAŞ" />
+  <hat id="376" numara="64Ç" isim="SADABAT EVLERİ / ÇELİKTEPE - ŞİŞLİ" />
+  <hat id="377" numara="65A" isim="SEYRANTEPE - GÜLTEPE - PERPA" />
+  <hat id="378" numara="65G" isim="KAĞITHANE / GÜLTEPE - ŞİŞLİ" />
+  <hat id="379" numara="66" isim="GÜLBAĞ - EMİNÖNÜ" />
+  <hat id="380" numara="66Z" isim="ZİNCİRLİDERE - ŞİŞLİ" />
+  <hat id="381" numara="69A" isim="ESENTEPE / MECİDİYEKÖY - YENİKAPI" />
+  <hat id="382" numara="70D" isim="KURTULUŞ / DOLAPDERE - EMİNÖNÜ" />
+  <hat id="383" numara="70FE" isim="FERİKÖY - EMİNÖNÜ" />
+  <hat id="384" numara="70FY" isim="FERİKÖY - YENİKAPI" />
+  <hat id="385" numara="70KE" isim="KURTULUŞ - EMİNÖNÜ" />
+  <hat id="386" numara="70KY" isim="KURTULUŞ - YENİKAPI" />
+  <hat id="387" numara="71AT" isim="ATAKÖY - TAKSİM" />
+  <hat id="388" numara="71T" isim="ATAKÖY - TAKSİM" />
+  <hat id="389" numara="72T" isim="YEŞİLKÖY - TAKSİM" />
+  <hat id="390" numara="72YT" isim="YEŞİLKÖY - TAKSİM" />
+  <hat id="391" numara="73" isim="YENİBOSNA METRO - TAKSİM" />
+  <hat id="392" numara="73B" isim="FLORYA - BAKIRKÖY" />
+  <hat id="393" numara="73F" isim="FLORYA - TAKSİM" />
+  <hat id="394" numara="73Y" isim="YENİBOSNA METRO - YEŞİLKÖY / AKVARYUM" />
+  <hat id="395" numara="74" isim="HİLTON SİTESİ - EMİNÖNÜ" />
+  <hat id="396" numara="74A" isim="GAYRETTEPE - EMİNÖNÜ" />
+  <hat id="397" numara="75M" isim="AKSARAY - MECİDİYEKÖY" />
+  <hat id="398" numara="75O" isim="OTOGAR - MECİDİYEKÖY" />
+  <hat id="399" numara="76" isim="BEYLİKDÜZÜ - BAKIRKÖY" />
+  <hat id="400" numara="76A" isim="ISPARTAKULE BİZİMEVLER - YENİKAPI" />
+  <hat id="401" numara="76B" isim="AVCILAR CİHANGİR MAHALLESİ - BAKIRKÖY" />
+  <hat id="402" numara="76C" isim="BÜYÜKÇEKMECE - BAKIRKÖY" />
+  <hat id="403" numara="76D" isim="BAHÇEŞEHİR / ESENKENT - TAKSİM" />
+  <hat id="404" numara="76E" isim="BOĞAZKÖY / BAHÇEŞEHİR - TAKSİM" />
+  <hat id="405" numara="76G" isim="GÜRPINAR - AVCILAR METROBÜS" />
+  <hat id="406" numara="76İ" isim="ISPARTAKULE BİZİMEVLER - BAKIRKÖY" />
+  <hat id="407" numara="76O" isim="AVCILAR CİHANGİR MAHALLESİ - OTOGAR" />
+  <hat id="408" numara="76T" isim="ISPARTAKULE BİZİMEVLER - TAKSİM" />
+  <hat id="409" numara="76TM" isim="TEPECİK KİPTAŞ KONUTLARI - AVCILAR METROBÜS" />
+  <hat id="410" numara="76Y" isim="İHLAS MARMARA EVLERİ - BAKIRKÖY" />
+  <hat id="411" numara="77" isim="ŞİŞLİ - YENİKAPI" />
+  <hat id="412" numara="77A" isim="ŞİŞLİ - VEZNECİLER" />
+  <hat id="413" numara="77Ç" isim="ÇIKSALIN - EMİNÖNÜ" />
+  <hat id="414" numara="78" isim="BAŞAKŞEHİR 4.ETAP - EMİNÖNÜ" />
+  <hat id="415" numara="78A" isim="OYAKKENT - AKSARAY" />
+  <hat id="416" numara="78B" isim="BAŞAKŞEHİR 4.ETAP - YENİBOSNA METRO" />
+  <hat id="417" numara="78BE" isim="BAŞAKŞEHİR METROKENT - MECİDİYEKÖY" />
+  <hat id="418" numara="78C" isim="YUNUS EMRE MAHALLESİ - BAŞAKŞEHİR METROKENT" />
+  <hat id="419" numara="78E" isim="BAŞAKŞEHİR 4.ETAP - KAYABAŞI KİPTAŞ" />
+  <hat id="420" numara="78F" isim="BAŞAKŞEHİR 4.ETAP - FENERTEPE" />
+  <hat id="421" numara="78G" isim="BAŞAKŞEHİR - GÜVERCİNTEPE / KAYAŞEHİR" />
+  <hat id="422" numara="78H" isim="BAŞAKŞEHİR METROKENT - EMİNÖNÜ" />
+  <hat id="423" numara="78M" isim="BAŞAKŞEHİR METROKENT - MECİDİYEKÖY" />
+  <hat id="424" numara="78Ş" isim="BAŞAKŞEHİR - ŞAHİNTEPESİ" />
+  <hat id="425" numara="78ZB" isim="BAŞAKŞEHİR 4.ETAP - ZEYTİNBURNU METRO" />
+  <hat id="426" numara="79B" isim="KAYAŞEHİR - BAKIRKÖY" />
+  <hat id="427" numara="79C" isim="KAYAŞEHİR - CEBECİ MAHALLESİ" />
+  <hat id="428" numara="79E" isim="KAYABAŞI KİPTAŞ / KAYAŞEHİR - EMİNÖNÜ" />
+  <hat id="429" numara="79F" isim="KAYAŞEHİR - YENİBOSNA METRO" />
+  <hat id="430" numara="79G" isim="KAYAŞEHİR - ZEYTİNBURNU METRO" />
+  <hat id="431" numara="79K" isim="KAYAŞEHİR - YENİBOSNA METRO" />
+  <hat id="432" numara="79KM" isim="KAYABAŞI KİPTAŞ-MECİDİYEKÖY" />
+  <hat id="433" numara="79M" isim="KAYAŞEHİR - MECİDİYEKÖY" />
+  <hat id="434" numara="79Ş" isim="ŞAHİNTEPESİ - TOPKAPI" />
+  <hat id="435" numara="79T" isim="KAYABAŞI KİPTAŞ - TAKSİM" />
+  <hat id="436" numara="79Y" isim="KAYAŞEHİR - YENİBOSNA METRO" />
+  <hat id="437" numara="80" isim="YEDİKULE - EMİNÖNÜ" />
+  <hat id="438" numara="80T" isim="YEDİKULE - TAKSİM" />
+  <hat id="439" numara="81" isim="YEŞİLKÖY - EMİNÖNÜ" />
+  <hat id="440" numara="82" isim="YENİBOSNA METRO - EMİNÖNÜ" />
+  <hat id="441" numara="82B" isim="YENİBOSNA METRO - BEYAZIT" />
+  <hat id="442" numara="83O" isim="OTOGAR - TAKSİM" />
+  <hat id="443" numara="85C" isim="DAVUTPAŞA YTÜ - KAZLIÇEŞME" />
+  <hat id="444" numara="85T" isim="ESENLER METRO - TAKSİM" />
+  <hat id="445" numara="86V" isim="EYÜPSULTAN - VEZNECİLER" />
+  <hat id="446" numara="87" isim="TOPKAPI / EDİRNEKAPI - TAKSİM" />
+  <hat id="447" numara="88" isim="YUNUS EMRE MAHALLESİ - TOPKAPI" />
+  <hat id="448" numara="88A" isim="YUNUS EMRE MAHALLESİ - YENİKAPI" />
+  <hat id="449" numara="89" isim="ATAKENT MAHALLESİ - AKSARAY" />
+  <hat id="450" numara="89A" isim="K.S.SÜLEYMAN HASTANESİ - ZEYTİNBURNU METRO" />
+  <hat id="451" numara="89B" isim="TEPEÜSTÜ - AKSARAY" />
+  <hat id="452" numara="89C" isim="BAŞAKŞEHİR 4.ETAP - TAKSİM" />
+  <hat id="453" numara="89İ" isim="K.S.SÜLEYMAN HASTANESİ / İNÖNÜ MAHALLESİ - AKSARAY" />
+  <hat id="454" numara="89M" isim="MEHMET AKİF MAHALLESİ - ZEYTİNBURNU METRO" />
+  <hat id="455" numara="89S" isim="SÖĞÜTLÜÇEŞME - ZEYTİNBURNU METRO" />
+  <hat id="456" numara="89T" isim="ATAKENT MAHALLESİ - TAKSİM" />
+  <hat id="457" numara="89YB" isim="ATAKENT MAHALLESİ - BAKIRKÖY" />
+  <hat id="458" numara="90" isim="DRAMAN - EMİNÖNÜ" />
+  <hat id="459" numara="90B" isim="DRAMAN - BEYAZIT" />
+  <hat id="460" numara="91E" isim="GÖZTEPE MAHALLESİ - BEYAZIT" />
+  <hat id="461" numara="91O" isim="OTOGAR - EMİNÖNÜ" />
+  <hat id="462" numara="92" isim="YENİ MAHALLE METRO / ATEŞTUĞLA - EMİNÖNÜ" />
+  <hat id="463" numara="92A" isim="KİRAZLI METRO / ATEŞTUĞLA - EMİNÖNÜ" />
+  <hat id="464" numara="92B" isim="YENİ MAHALLE METRO / ATEŞTUĞLA - BEYAZIT" />
+  <hat id="465" numara="92C" isim="HAZNEDAR - EMİNÖNÜ" />
+  <hat id="466" numara="92K" isim="YENİ MAHALLE METRO / KİRAZLI - BEYAZIT" />
+  <hat id="467" numara="92M" isim="BAĞCILAR DEV. HST. / ÇİNÇİNDERE CAD. - MECİDİYEKÖY" />
+  <hat id="468" numara="92Ş" isim="YENİ MAHALLE METRO / ATEŞTUĞLA - MECİDİYEKÖY" />
+  <hat id="469" numara="92T" isim="BAĞCILAR DEVLET HASTANESİ - TAKSİM" />
+  <hat id="470" numara="93" isim="ZEYTİNBURNU - EMİNÖNÜ" />
+  <hat id="471" numara="93C" isim="ZEYTİNBURNU - BEYAZIT" />
+  <hat id="472" numara="93M" isim="ZEYTİNBURNU - MECİDİYEKÖY" />
+  <hat id="473" numara="93T" isim="ZEYTİNBURNU - TAKSİM" />
+  <hat id="474" numara="94" isim="OSMANİYE - EMİNÖNÜ" />
+  <hat id="475" numara="94A" isim="BAKIRKÖY - BEYAZIT" />
+  <hat id="476" numara="94Y" isim="YEŞİLPINAR - BAKIRKÖY" />
+  <hat id="477" numara="97" isim="GÜNEŞLİ - BEYAZIT" />
+  <hat id="478" numara="97A" isim="BASINSİTESİ - EMİNÖNÜ" />
+  <hat id="479" numara="97B" isim="ÇAVUŞPAŞA - BEYAZIT" />
+  <hat id="480" numara="97E" isim="MAHMUTBEY / GÜNEŞLİ - KAZLIÇEŞME" />
+  <hat id="481" numara="97G" isim="YENİ MAHALLE METRO / ATEŞTUĞLA - BEYAZIT" />
+  <hat id="482" numara="97GE" isim="GÜNEŞLİ - EMİNÖNÜ" />
+  <hat id="483" numara="97H" isim="GÜNEŞLİ - AKSARAY" />
+  <hat id="484" numara="97İM" isim="BATIŞEHİR - MECİDİYEKÖY" />
+  <hat id="485" numara="97KZ" isim="KOCASİNAN - ZEYTİNBURNU METRO" />
+  <hat id="486" numara="97M" isim="GÜNEŞLİ - MECİDİYEKÖY" />
+  <hat id="487" numara="97T" isim="BASINSİTESİ - TAKSİM" />
+  <hat id="488" numara="98" isim="BAŞAKŞEHİR 4.ETAP - BAKIRKÖY" />
+  <hat id="489" numara="98A" isim="GÖZTEPE MAHALLESİ - BAKIRKÖY" />
+  <hat id="490" numara="98B" isim="YENİBOSNA KUYUMCUKENT - BAKIRKÖY" />
+  <hat id="491" numara="98C" isim="BAĞCILAR ÇINAR MAHALLESİ - BAKIRKÖY" />
+  <hat id="492" numara="98D" isim="YENİ MAHALLE METRO / ATEŞTUĞLA - BAKIRKÖY" />
+  <hat id="493" numara="98E" isim="GÜNEŞLİ BASIN TESİSLERİ - BAKIRKÖY" />
+  <hat id="494" numara="98G" isim="ESENLER GİYİMKENT / TURGUTREİS - BAKIRKÖY" />
+  <hat id="495" numara="98H" isim="BAŞAKŞEHİR METROKENT/MEHMET AKİF MAH - BAKIRKÖY" />
+  <hat id="496" numara="98İ" isim="ATAKENT MAHALLESİ / HALKALI - BAKIRKÖY" />
+  <hat id="497" numara="98K" isim="YENİ MAHALLE METRO / KİRAZLI - BAKIRKÖY" />
+  <hat id="498" numara="98M" isim="İSTOÇ - BAKIRKÖY" />
+  <hat id="499" numara="98MB" isim="MEHMET AKİF MAHALLESİ - BAKIRKÖY" />
+  <hat id="500" numara="98S" isim="K.S.SÜLEYMAN HASTANESİ - BAKIRKÖY" />
+  <hat id="501" numara="98T" isim="ATAKENT MAHALLESİ - BAKIRKÖY" />
+  <hat id="502" numara="98TB" isim="KÜÇÜKÇEKMECE FATİH MAHALLESİ - BAKIRKÖY" />
+  <hat id="503" numara="98Y" isim="ESENLER GİYİMKENT / YÜZYIL MAHALLESİ - BAKIRKÖY" />
+  <hat id="504" numara="99" isim="AKŞEMSETTİN - EMİNÖNÜ" />
+  <hat id="505" numara="99A" isim="GAZİOSMANPAŞA - EMİNÖNÜ" />
+  <hat id="506" numara="99Y" isim="YEŞİLPINAR - EMİNÖNÜ" />
+  <hat id="507" numara="120M" isim="KADIKÖY - MECİDİYEKÖY" />
+  <hat id="508" numara="121A" isim="BEYKOZ - MECİDİYEKÖY" />
+  <hat id="509" numara="121B" isim="KAVACIK - MECİDİYEKÖY" />
+  <hat id="510" numara="121BS" isim="SULTANİYE / SOĞUKSU MAHALLESİ - MECİDİYEKÖY" />
+  <hat id="511" numara="122B" isim="YENİDOĞAN - MECİDİYEKÖY" />
+  <hat id="512" numara="122C" isim="TEPEÜSTÜ - MECİDİYEKÖY" />
+  <hat id="513" numara="122D" isim="TAŞDELEN CUMHURİYET MAHALLESİ - MECİDİYEKÖY" />
+  <hat id="514" numara="122H" isim="S.GÖKÇEN HAVALİMANI / YENİŞEHİR - 4.LEVENT METRO" />
+  <hat id="515" numara="122M" isim="ŞAHİNBEY - MECİDİYEKÖY" />
+  <hat id="516" numara="122V" isim="VEYSEL KARANİ - 4.LEVENT METRO" />
+  <hat id="517" numara="122Y" isim="ÇEKMEKÖY - MECİDİYEKÖY" />
+  <hat id="518" numara="125" isim="KADIKÖY - 4.LEVENT / KONAKLAR MAHALLESİ" />
+  <hat id="519" numara="129L" isim="KOZYATAĞI - 4.LEVENT METRO" />
+  <hat id="520" numara="129T" isim="BOSTANCI - TAKSİM" />
+  <hat id="521" numara="130" isim="TUZLA - KADIKÖY" />
+  <hat id="522" numara="130A" isim="DENİZ HARP OKULU - KADIKÖY" />
+  <hat id="523" numara="130E" isim="TUZLA / EVORA KONUTLARI - KARTAL METRO / CEVİZLİ" />
+  <hat id="524" numara="130H" isim="DENİZ HARP OKULU - SABİHA GÖKÇEN HAVALİMANI" />
+  <hat id="525" numara="130Ş" isim="ŞİFA MAHALLESİ - KADIKÖY" />
+  <hat id="526" numara="130T" isim="AYDINLI TOKİ KONUTLARI - TUZLA" />
+  <hat id="527" numara="131" isim="SULTANBEYLİ - ÜMRANİYE" />
+  <hat id="528" numara="131A" isim="AHMET YESEVİ MAHALLESİ - ÜMRANİYE" />
+  <hat id="529" numara="131B" isim="MİMAR SİNAN MAHALLESİ - ÜMRANİYE" />
+  <hat id="530" numara="131C" isim="SULTANBEYLİ - ÜMRANİYE" />
+  <hat id="531" numara="131H" isim="HİLAL KONUTLARI - TEPEÜSTÜ" />
+  <hat id="532" numara="131K" isim="YEŞİLTEPE / ŞAHİNBEY - KARTAL" />
+  <hat id="533" numara="131T" isim="TAŞDELEN - İMES / ÜMRANİYE" />
+  <hat id="534" numara="131TD" isim="TAŞDELEN - ÜMRANİYE" />
+  <hat id="535" numara="131Ü" isim="SULTANBEYLİ ORMAN CADDESİ - ÜMRANİYE" />
+  <hat id="536" numara="131V" isim="VEYSEL KARANİ - YAKACIK / KARTAL" />
+  <hat id="537" numara="131Y" isim="ÇEKMEKÖY/SAMANDIRA-KARTAL" />
+  <hat id="538" numara="131YS" isim="SULTANBEYLİ ALTINTEPE - ÜMRANİYE" />
+  <hat id="539" numara="132" isim="AKFIRAT / TEPEÖREN - KARTAL" />
+  <hat id="540" numara="132A" isim="ÇAMLIK MAHALLESİ - KARTAL" />
+  <hat id="541" numara="132B" isim="AKFIRAT EVLERİ - KARTAL METRO" />
+  <hat id="542" numara="132C" isim="SULTANBEYLİ GÖLET - KARTAL" />
+  <hat id="543" numara="132ÇK" isim="ÇEKMEKÖY - KARTAL" />
+  <hat id="544" numara="132D" isim="KURTDOĞMUŞ / BALLICA - KARTAL" />
+  <hat id="545" numara="132E" isim="EMİRLİ / KURNAKÖY - KARTAL" />
+  <hat id="546" numara="132F" isim="ESENLER - KARTAL" />
+  <hat id="547" numara="132G" isim="GÖZDAĞI - KARTAL METRO / CEVİZLİ" />
+  <hat id="548" numara="132H" isim="PENDİK YHT - SABİHA GÖKÇEN HAVALİMANI" />
+  <hat id="549" numara="132K" isim="YENİŞEHİR - KARTAL" />
+  <hat id="550" numara="132M" isim="SULTANBEYLİ MİMARSİNAN - KARTAL METRO / CEVİZLİ" />
+  <hat id="551" numara="132N" isim="NİŞANTEPE / BÜYÜKBAKKALKÖY - KARTAL" />
+  <hat id="552" numara="132P" isim="VEYSEL KARANİ / SULTANBEYLİ - KARTAL" />
+  <hat id="553" numara="132S" isim="YENİDOĞAN - KARTAL" />
+  <hat id="554" numara="132T" isim="TEPEÖREN - KARTAL METRO" />
+  <hat id="555" numara="132V" isim="YENİDOĞAN / SULTANBEYLİ - PENDİK YHT" />
+  <hat id="556" numara="132Y" isim="HİLAL KONUTLARI / YAYALAR - KARTAL METRO" />
+  <hat id="557" numara="132Z" isim="SULTANBEYLİ UZUNDERE - KARTAL" />
+  <hat id="558" numara="133" isim="GÜZELYALI - KARTAL" />
+  <hat id="559" numara="133A" isim="AYDINLI BAHÇELER - KARTAL" />
+  <hat id="560" numara="133AK" isim="TEPEÖREN - KARTAL" />
+  <hat id="561" numara="133F" isim="ACARLAR SİTESİ - MALTEPE / CEVİZLİ" />
+  <hat id="562" numara="133G" isim="GÜLENSU MAHALLESİ - KARTAL" />
+  <hat id="563" numara="133GP" isim="GÖÇBEYLİ - KARTAL" />
+  <hat id="564" numara="133K" isim="KURTKÖY SANAYİ MAHALLESİ / KAVAKPINAR - KARTAL" />
+  <hat id="565" numara="133KT" isim="AYDINLI TOKİ KONUTLARI - KARTAL" />
+  <hat id="566" numara="133M" isim="ŞEKERPINAR MAHALLESİ - TUZLA" />
+  <hat id="567" numara="133N" isim="MARMARA EĞİTİM KÖYÜ - MALTEPE METRO / KARTAL" />
+  <hat id="568" numara="133P" isim="TEPEÖREN - TUZLA" />
+  <hat id="569" numara="133Ş" isim="ÇAĞDAŞKENT/ ŞEKERPINAR MAH. - KARTAL" />
+  <hat id="570" numara="133T" isim="TUZLA - BOSTANCI" />
+  <hat id="571" numara="133TM" isim="MİMARSİNAN MAHALLESİ - TUZLA" />
+  <hat id="572" numara="133Ü" isim="SABANCI ÜNİVERSİTESİ - ORHANLI - PENDİK METRO - YH" />
+  <hat id="573" numara="134" isim="VIAPORT / HİLAL KONUTLARI - KARTAL" />
+  <hat id="574" numara="134CK" isim="VELİBABA KİPTAŞ KONUTLARI / CEZAEVİ - KARTAL" />
+  <hat id="575" numara="134DK" isim="ESENKENT - KARTAL" />
+  <hat id="576" numara="134GK" isim="UĞURMUMCU - GÜMÜŞPINAR - KARTAL" />
+  <hat id="577" numara="134K" isim="KURFALI - KARTAL" />
+  <hat id="578" numara="134UK" isim="UĞURMUMCU - KARTAL" />
+  <hat id="579" numara="134YK" isim="UĞURMUMCU - YAKACIK - KARTAL" />
+  <hat id="580" numara="135" isim="POYRAZKÖY - KAVACIK" />
+  <hat id="581" numara="135A" isim="ACARKENT / GÖRELE MAHALLESİ - KAVACIK" />
+  <hat id="582" numara="135G" isim="TOKATKÖY - ÇAVUŞBAŞI" />
+  <hat id="583" numara="135K" isim="KARLITEPE - ORTAÇEŞME" />
+  <hat id="584" numara="135T" isim="ARKBOYU - TOKATKÖY" />
+  <hat id="585" numara="136" isim="ALİBAHADIR - KAVACIK" />
+  <hat id="586" numara="136B" isim="TÜRK ALMAN ÜNİVERSİTESİ - KAVACIK/KÜÇÜKSU" />
+  <hat id="587" numara="136R" isim="RİVA - YENİ RİVA YOLU / KAVACIK" />
+  <hat id="588" numara="136Z" isim="ALİ BAHADIR / ZERZEVAT - KAVACIK" />
+  <hat id="589" numara="137" isim="CUMHURİYET KÖYÜ / RİVA - BEYKOZ / KAVACIK" />
+  <hat id="590" numara="138" isim="CUMHURİYET KÖYÜ / ÖMERLİ - ÜMRANİYE" />
+  <hat id="591" numara="139" isim="ÜSKÜDAR - ŞİLE" />
+  <hat id="592" numara="139A" isim="ÜSKÜDAR - ŞİLE / AĞVA" />
+  <hat id="593" numara="139T" isim="TEPEÜSTÜ - ŞİLE" />
+  <hat id="594" numara="141A" isim="ATAKENT MAHALLESİ - MECİDİYEKÖY" />
+  <hat id="595" numara="141M" isim="K.S.SÜLEYMAN HASTANESİ - MECİDİYEKÖY" />
+  <hat id="596" numara="142" isim="BOĞAZKÖY - AVCILAR METROBÜS" />
+  <hat id="597" numara="142A" isim="BOĞAZKÖY - AVCILAR METROBÜS" />
+  <hat id="598" numara="142B" isim="K.S.SÜLEYMAN HASTANESİ - BÜYÜKÇEKMECE ALBATROS" />
+  <hat id="599" numara="142C" isim="YEŞİLKENT MAH. - CUMHURİYET MAH. METROBÜS" />
+  <hat id="600" numara="142E" isim="ESENYURT İNCİRTEPE - AKSARAY" />
+  <hat id="601" numara="142F" isim="YEŞİLKENT - AVCILAR METROBÜS" />
+  <hat id="602" numara="142K" isim="ESENYURT KİPTAŞ 4.ETAP / 5.ETAP - AVCILAR METROBÜS" />
+  <hat id="603" numara="142T" isim="ESENYURT DEVLET HASTANESİ - TÜYAP" />
+  <hat id="604" numara="143İ" isim="KÜÇÜKÇEKMECE - İSTOÇ" />
+  <hat id="605" numara="144A" isim="DELİKLİKAYA / ÖMERLİ KİPTAŞ - AVCILAR METROBÜS" />
+  <hat id="606" numara="145" isim="İHLAS MARMARA EVLERİ - ZEYTİNBURNU METRO" />
+  <hat id="607" numara="145M" isim="YEŞİLKENT / BEYKENT - TAKSİM" />
+  <hat id="608" numara="145T" isim="BEYLİKDÜZÜ - TAKSİM" />
+  <hat id="609" numara="146" isim="BOĞAZKÖY / BAHÇEŞEHİR - BAKIRKÖY" />
+  <hat id="610" numara="146B" isim="BAŞAKŞEHİR 4.ETAP - EMİNÖNÜ" />
+  <hat id="611" numara="146E" isim="BAŞAKŞEHİR 4.ETAP - MECİDİYEKÖY" />
+  <hat id="612" numara="146M" isim="BAŞAKŞEHİR 4.ETAP - MECİDİYEKÖY" />
+  <hat id="613" numara="146T" isim="BOĞAZKÖY / BAHÇEŞEHİR - YENİKAPI" />
+  <hat id="614" numara="147" isim="ŞAHİNTEPE - AVCILAR CİHANGİR MAHALLESİ" />
+  <hat id="615" numara="150" isim="HACIOSMAN METRO - RUMELİFENERİ" />
+  <hat id="616" numara="151" isim="HACIOSMAN METRO - KİLYOS / DEMİRCİKÖY" />
+  <hat id="617" numara="152" isim="HACIOSMAN METRO - ZEKERİYAKÖY / KISIRKAYA" />
+  <hat id="618" numara="153" isim="BAHÇEKÖY - SARIYER" />
+  <hat id="619" numara="154" isim="HACIOSMAN METRO - KOÇ ÜNİVERSİTESİ" />
+  <hat id="620" numara="202" isim="BOSTANCI - TAKSİM" />
+  <hat id="621" numara="222" isim="PENDİK - KADIKÖY" />
+  <hat id="622" numara="251" isim="PENDİK - MECİDİYEKÖY / ŞİŞLİ" />
+  <hat id="623" numara="252" isim="KARTAL - MECİDİYEKÖY / ŞİŞLİ" />
+  <hat id="624" numara="256" isim="YEDİTEPE ÜNİVERSİTESİ / ATAŞEHİR - TAKSİM" />
+  <hat id="625" numara="300" isim="TÜYAP - SİLİVRİ" />
+  <hat id="626" numara="303" isim="SİLİVRİ - YENİBOSNA METRO" />
+  <hat id="627" numara="303B" isim="SİLİVRİ CEZAEVİ - OTOGAR" />
+  <hat id="628" numara="319" isim="KAYIŞDAĞI - KADIKÖY" />
+  <hat id="629" numara="320" isim="FERHATPAŞA - ÜSKÜDAR" />
+  <hat id="630" numara="320A" isim="SULTANBEYLİ MİMARSİNAN / SAMANDIRA - ÜSKÜDAR" />
+  <hat id="631" numara="320Y" isim="YENİDOĞAN - KOZYATAĞI METRO" />
+  <hat id="632" numara="336" isim="ARNAVUTKÖY - EMİNÖNÜ" />
+  <hat id="633" numara="336A" isim="BALABAN KÖYÜ - BAYRAMPAŞA METRO" />
+  <hat id="634" numara="336E" isim="SULTANÇİFTLİĞİ - EMİNÖNÜ" />
+  <hat id="635" numara="336H" isim="HADIMKÖY TOKİ - BAYRAMPAŞA METRO" />
+  <hat id="636" numara="336İ" isim="İMRAHOR / POLİS OKULU - ARNAVUTKÖY" />
+  <hat id="637" numara="336İM" isim="BOLLUCA / İMRAHOR - CEBECİ" />
+  <hat id="638" numara="336K" isim="YENİKÖY / KARABURUN - MESCİDİSELAM" />
+  <hat id="639" numara="336M" isim="ARNAVUTKÖY - MECİDİYEKÖY" />
+  <hat id="640" numara="336T" isim="TAŞOLUK - CEBECİ" />
+  <hat id="641" numara="336Y" isim="CEBECİ - YENİKAPI MARMARAY" />
+  <hat id="642" numara="399B" isim="GÜZELTEPE - EMİNÖNÜ" />
+  <hat id="643" numara="399C" isim="ESENTEPE MAHALLESİ - EMİNÖNÜ" />
+  <hat id="644" numara="400A" isim="YEŞİLKENT / BEYKENT - YENİBOSNA METRO" />
+  <hat id="645" numara="401" isim="ÇATALCA - YENİBOSNA METRO" />
+  <hat id="646" numara="401T" isim="TEPEKENT - YENİBOSNA METRO" />
+  <hat id="647" numara="402" isim="BİNKILIÇ - ÇATALCA" />
+  <hat id="648" numara="403" isim="ÇİFTLİKKÖY - ÇATALCA" />
+  <hat id="649" numara="404" isim="YALIKÖY / KARACAKÖY - ÇATALCA" />
+  <hat id="650" numara="418" isim="HADIMKÖY - İ.Ü. AVCILAR KAMPÜSÜ" />
+  <hat id="651" numara="429" isim="KIRAÇ - YENİBOSNA METRO" />
+  <hat id="652" numara="448" isim="MİMARSİNAN - YENİBOSNA METRO" />
+  <hat id="653" numara="458" isim="GÜRPINAR - YENİBOSNA METRO" />
+  <hat id="654" numara="500A" isim="TOPKAPI / EDİRNEKAPI - KADIKÖY" />
+  <hat id="655" numara="500L" isim="CEVİZLİBAĞ - LEVENT" />
+  <hat id="656" numara="500T" isim="TUZLA ŞİFA MAHALLESİ - CEVİZLİBAĞ" />
+  <hat id="657" numara="522" isim="ALEMDAĞ - ÇIKSALIN" />
+  <hat id="658" numara="522B" isim="YENİDOĞAN - TOPKAPI" />
+  <hat id="659" numara="522N" isim="NİŞANTEPE - 4.LEVENT METRO" />
+  <hat id="660" numara="522ST" isim="SULTANBEYLİ - MECİDİYEKÖY" />
+  <hat id="661" numara="559C" isim="RUMELİ HİSARÜSTÜ - TAKSİM" />
+  <hat id="662" numara="AND2Y" isim="ANADOLU2 DEPAR / YUNUS" />
+  <hat id="663" numara="AVR1" isim="AVRUPA 1 DEPAR / İKİTELLİ" />
+  <hat id="664" numara="AVR2" isim="AVRUPA 2 DEPAR / TOPKAPI" />
+  <hat id="665" numara="AVR3A" isim="AVRUPA3 DEPAR / AYAZAĞA" />
+  <hat id="666" numara="AVR3K" isim="AVRUPA3 DEPAR / KAĞITHANE" />
+  <hat id="667" numara="BM4" isim="İHLAS MARMARA EVLERİ - AVCILAR METROBÜS" />
+  <hat id="668" numara="BN1" isim="HALKALI İSTASYON - EMİNÖNÜ" />
+  <hat id="669" numara="BN2" isim="KÜÇÜKÇEKMECE - EMİNÖNÜ" />
+  <hat id="670" numara="BN3" isim="HALKALI - YENİKAPI" />
+  <hat id="671" numara="DT1" isim="ORTAKÖY DEREBOYU - TAKSİM" />
+  <hat id="672" numara="DT2" isim="ORTAKÖY DEREBOYU - TAKSİM" />
+  <hat id="673" numara="E-10" isim="SABİHA GÖKÇEN HAVALİMANI / KURTKÖY - KADIKÖY" />
+  <hat id="674" numara="E-11" isim="SABİHA GÖKÇEN HAVALİMANI - KADIKÖY" />
+  <hat id="675" numara="E-18" isim="ALTUNİZADE / ÜMRANİYE - SABİHA GÖKÇEN HAVALİMANI" />
+  <hat id="676" numara="E-2" isim="BEYKOZ - TAKSİM" />
+  <hat id="677" numara="E-3" isim="SABİHA GÖKÇEN HAVALİMANI - 4.LEVENT METRO" />
+  <hat id="678" numara="E-57" isim="ESENKENT BAHÇEŞEHİR - BAKIRKÖY" />
+  <hat id="679" numara="E-58" isim="ESENKENT BAHÇEŞEHİR - MECİDİYEKÖY" />
+  <hat id="680" numara="E-60" isim="MİMARSİNAN / BÜYÜKÇEKMECE - MECİDİYEKÖY" />
+  <hat id="681" numara="E-9" isim="BOSTANCI - SABİHA GÖKÇEN HAVALİMANI" />
+  <hat id="682" numara="EL2" isim="EMİRGAN - 4.LEVENT METRO" />
+  <hat id="683" numara="EM1" isim="EMİNÖNÜ - KULAKSIZ" />
+  <hat id="684" numara="EM2" isim="EMİNÖNÜ - KULAKSIZ" />
+  <hat id="685" numara="ER1" isim="KADIKÖY - ERENKÖY" />
+  <hat id="686" numara="ER2" isim="KADIKÖY - ERENKÖY" />
+  <hat id="687" numara="FB1" isim="KADIKÖY - FENERBAHÇE" />
+  <hat id="688" numara="FB2" isim="KADIKÖY - FENERBAHÇE" />
+  <hat id="689" numara="GZ1" isim="KADIKÖY - GÖZTEPE" />
+  <hat id="690" numara="GZ2" isim="KADIKÖY - GÖZTEPE" />
+  <hat id="691" numara="HT1" isim="K.S.SÜLEYMAN HASTANESİ - ÜÇYÜZLÜ METRO" />
+  <hat id="692" numara="HT10" isim="BATIŞEHİR - YENİBOSNA METRO" />
+  <hat id="693" numara="HT11" isim="GİYİMKENT / FATİH MAHALLESİ - YENİBOSNA METRO" />
+  <hat id="694" numara="HT12" isim="GÜNEŞLİ BASIN TESİSLERİ - YENİBOSNA METRO" />
+  <hat id="695" numara="HT13" isim="BÖLGE İDARE MAHKEMESİ-YENİBOSNA METRO" />
+  <hat id="696" numara="HT18" isim="HADIMKÖY -Y.BOSNA METRO" />
+  <hat id="697" numara="HT20" isim="ŞAHİNTEPESİ - YENİBOSNA METRO" />
+  <hat id="698" numara="HT29" isim="KIRAÇ - AVCILAR METROBÜS" />
+  <hat id="699" numara="HT48" isim="TEPECİK KİPTAŞ KONUTLARI - AVCILAR METROBÜS" />
+  <hat id="700" numara="HT5" isim="G.O.PAŞA DEVLET HASTANESİ - KOCATEPE METRO" />
+  <hat id="701" numara="HT6" isim="CEBECİ - KOCATEPE METRO - İSTOÇ" />
+  <hat id="702" numara="KÇ1" isim="OLİMPİYATKÖY METRO / K.S.S.HASTANESİ - K.ÇEKMECE M" />
+  <hat id="703" numara="KÇ2" isim="K.S.S.HASTANESİ / YARIMBURGAZ - YENİBOSNA METRO" />
+  <hat id="704" numara="KM10" isim="AYDINLI TOKİ / İÇMELER - PENDİK METRO/YHT" />
+  <hat id="705" numara="KM11" isim="AYDINLI TOKİ / A.YESEVİ - KARTAL METRO / CEVİZLİ" />
+  <hat id="706" numara="KM12" isim="TUZLA DENİZ HARP OKULU - KARTAL METRO / CEVİZLİ" />
+  <hat id="707" numara="KM13" isim="TUZLA - PENDİK METRO - YHT" />
+  <hat id="708" numara="KM2" isim="PENDİK - MARMARA ÜNİV. HASTANESİ/ TAVŞANTEPE METRO" />
+  <hat id="709" numara="KM20" isim="PENDİK YHT - KARTAL METRO" />
+  <hat id="710" numara="KM21" isim="HİLAL KONUTLARI - KARTAL METRO / CEVİZLİ" />
+  <hat id="711" numara="KM22" isim="SABİHA GÖKÇEN HAVALİMANI - PENDİK METRO/YHT" />
+  <hat id="712" numara="KM23" isim="KAVAKPINAR / MARMARA HST. - KARTAL METRO / CEVİZLİ" />
+  <hat id="713" numara="KM24" isim="KAVAKPINAR - PENDİK METRO/YHT" />
+  <hat id="714" numara="KM25" isim="YENİŞEHİR - KARTAL METRO / CEVİZLİ" />
+  <hat id="715" numara="KM26" isim="ÇAMLIK MAHALLESİ - PENDİK METRO/ PENDİK YHT" />
+  <hat id="716" numara="KM27" isim="YENİŞEHİR - PENDİK METRO/ PENDİK YHT" />
+  <hat id="717" numara="KM28" isim="OKAN ÜNİVERSİTESİ - PENDİK METRO/PENDİK YHT" />
+  <hat id="718" numara="KM29" isim="YENİŞEHİR/MARMARA ÜNİV. HASTANESİ - KARTAL METRO/C" />
+  <hat id="719" numara="KM3" isim="UĞURMUMCU-YAKACIK METRO/ PENDİK" />
+  <hat id="720" numara="KM30" isim="KARTAL / ATALAR - ESENKENT METRO" />
+  <hat id="721" numara="KM31" isim="UĞURMUMCU - KARTAL METRO" />
+  <hat id="722" numara="KM32" isim="KURFALI - KARTAL METRO / CEVİZLİ" />
+  <hat id="723" numara="KM33" isim="YEŞİLBAĞLAR - ESENKENT METRO" />
+  <hat id="724" numara="KM40" isim="MARMARA EĞİTİM KÖYÜ - METRO / MALTEPE" />
+  <hat id="725" numara="KM41" isim="BAŞIBÜYÜK SAĞLIK KAMPÜSÜ - KÜÇÜKYALI METRO" />
+  <hat id="726" numara="KM60" isim="VEYSEL KARANİ - KARTAL METRO / CEVİZLİ" />
+  <hat id="727" numara="KM70" isim="SULTANBEYLİ - KARTAL METRO / CEVİZLİ" />
+  <hat id="728" numara="KM71" isim="ADİL MAHALLESİ - KARTAL METRO / CEVİZLİ" />
+  <hat id="729" numara="MK11" isim="KAYABAŞI KİPTAŞ / KAYAŞEHİR - OLİMPİYATKÖY METRO" />
+  <hat id="730" numara="MK12" isim="GÜVERCİNTEPE - OLİMPİYATKÖY METRO" />
+  <hat id="731" numara="MK13" isim="ŞAHİNTEPE - OLİMPİYATKÖY METRO" />
+  <hat id="732" numara="MK14" isim="KİPTAŞ VADİTEPE - OLİMPİYATKÖY METRO" />
+  <hat id="733" numara="MK15" isim="BOĞAZKÖY / BAHÇEŞEHİR - OLİMPİYATKÖY METRO" />
+  <hat id="734" numara="MK21" isim="BAŞAKŞEHİR 4. 5. ETAPLAR - BAŞAKŞEHİR METROKENT" />
+  <hat id="735" numara="MK22" isim="TAŞOLUK / FENERTEPE - BAŞAKŞEHİR METROKENT" />
+  <hat id="736" numara="MK31" isim="K.S.S. HASTANESİ / HALKALI - BAŞAKŞEHİR METROKENT" />
+  <hat id="737" numara="MK42" isim="EVREN MAHALLESİ - KİRAZLI METRO" />
+  <hat id="738" numara="MR10" isim="ZEYTİNBURNU - KAZLIÇEŞME" />
+  <hat id="739" numara="MR11" isim="KAZLIÇEŞME - CEVİZLİBAĞ" />
+  <hat id="740" numara="MR12" isim="KAZLIÇEŞME - VEZNECİLER" />
+  <hat id="741" numara="MR20" isim="YENİBOSNA METRO - KAZLIÇEŞME" />
+  <hat id="742" numara="MR30" isim="BASINSİTESİ-KAZLIÇEŞME MARMARAY" />
+  <hat id="743" numara="MR35" isim="KOCAMUSTAFAPAŞA - YENİKAPI" />
+  <hat id="744" numara="MR9" isim="ÇAMLIK - AYRILIKÇEŞME" />
+  <hat id="745" numara="SG-1" isim="KADIKÖY - SABİHA GÖKÇEN HAVALİMANI" />
+  <hat id="746" numara="SG-2" isim="TAKSİM - SABİHA GÖKÇEN HAVALİMANI" />
+  <hat id="747" numara="T2" isim="TAKSİM - TÜNEL" />
+  <hat id="748" numara="TB1" isim="SULTANAHMET - DOLMABAHÇE - SULTANAHMET" />
+  <hat id="749" numara="TB2" isim="SULTANAHMET - ÇAMLICA - SULTANAHMET" />
+  <hat id="750" numara="TH-1" isim="TAKSİM - ATATÜRK HAVALİMANI" />
+  <hat id="751" numara="U1" isim="BEŞİKTAŞ / ULUS - ZİNCİRLİKUYU / BEŞİKTAŞ" />
+  <hat id="752" numara="U2" isim="BEŞİKTAŞ / ZİNCİRLİKUYU - ULUS / BEŞİKTAŞ" />
+  <hat id="753" numara="YH-1" isim="YENİKAPI İDO - ATATÜRK HAVALİMANI" />
+  <hat id="754" numara="YT-1" isim="YENİKAPI İDO - TAKSİM" />
+</hepsi>
