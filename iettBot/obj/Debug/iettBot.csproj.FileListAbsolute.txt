@@ -8,3 +8,13 @@ c:\users\onur kurt\documents\visual studio 2013\Projects\iettBot\iettBot\obj\Deb
 c:\users\onur kurt\documents\visual studio 2013\Projects\iettBot\iettBot\obj\Debug\iettBot.csproj.GenerateResource.Cache
 c:\users\onur kurt\documents\visual studio 2013\Projects\iettBot\iettBot\obj\Debug\iettBot.exe
 c:\users\onur kurt\documents\visual studio 2013\Projects\iettBot\iettBot\obj\Debug\iettBot.pdb
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\bin\Debug\iettBot.exe.config
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\obj\Debug\iettBot.exe
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\obj\Debug\iettBot.pdb
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\bin\Debug\iettBot.exe
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\bin\Debug\iettBot.pdb
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\bin\Debug\NSoup.dll
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\obj\Debug\iettBot.csprojResolveAssemblyReference.cache
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\obj\Debug\iettBot.Form1.resources
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\obj\Debug\iettBot.Properties.Resources.resources
+C:\Users\ONUR KURT\Desktop\iettDuraklar-master\iettBot\obj\Debug\iettBot.csproj.GenerateResource.Cache

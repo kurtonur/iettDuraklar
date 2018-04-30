@@ -19,6 +19,7 @@ namespace iettBot
         int i = 1;
         int durum = 1;
         List<string> dk;
+        Thread thread;
         public Form1()
         {
             InitializeComponent();
@@ -27,14 +28,15 @@ namespace iettBot
             hatlar();
             progressBar1.Maximum = i;
             progressBar1.Minimum = 0;
-            
+            button3.Enabled = false;
         }
 
         private void hatlar()
         {
-            IConnection connection = NSoupClient.Connect("http://www.iett.gov.tr/tr/main/hatlar");
+            IConnection connection = NSoupClient.Connect("http://www.iett.istanbul/tr/main/hatlar").UserAgent("Mozilla");
             connection.Timeout(30000);
             Document document = connection.Get();
+
             foreach (Element Hat in document.Select("h4.DetailLi_name"))
             {
                 int index = Hat.Text().IndexOf(' ');
@@ -47,7 +49,7 @@ namespace iettBot
         
         private void duraklar()
         {
-
+            
             XmlTextWriter yaz = new XmlTextWriter("Duraklar.xml", System.Text.UTF8Encoding.UTF8);
             yaz.Formatting = Formatting.Indented;
             yaz.WriteStartDocument();
@@ -59,7 +61,7 @@ namespace iettBot
 
             IConnection connection;
 
-                connection = NSoupClient.Connect("http://www.iett.gov.tr/tr/main/hatlar/" + ayir[1]);
+            connection = NSoupClient.Connect("http://www.iett.istanbul/tr/main/hatlar/" + ayir[1]).UserAgent("Mozilla");
 
             connection.Timeout(600000);
 
@@ -109,10 +111,12 @@ namespace iettBot
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Thread thread = new Thread(new ThreadStart(duraklar));
+            thread = new Thread(new ThreadStart(duraklar));
             thread.Start();
 
             timer1.Start();
+            button3.Enabled = true;
+            button2.Enabled = false;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -156,6 +160,17 @@ namespace iettBot
                 
                 MessageBox.Show("Hatlar.xml Kayit Edildi.");
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+            progressBar1.Value = 0;
+            timer1.Stop();
+            thread.Interrupt();
+            thread.Abort();
+            button3.Enabled = false;
+            button2.Enabled = true;
         }
     }
 }
